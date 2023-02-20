@@ -1,3 +1,5 @@
 # Boilerplate Sveltekit + TailwindCSS + VSCode
 
-just some boilerplate code
+```console
+$ pnpm install -D tailwindcss postcss autoprefixer
+```
